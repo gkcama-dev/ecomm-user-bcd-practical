@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-ejb" name="ecomm-user:ejb exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/ecomm_user_ejb_exploded</output-path>
+    <root id="root">
+      <element id="module-output" name="ecomm-user" />
+    </root>
+  </artifact>
+</component>
